@@ -3,15 +3,15 @@
 	"id": "egapplemod",
 	"version": "${version}",
 	"name": "Enchanted Gapple Mod",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Adds a recipe for crafting an enchanted golden apple and an achievement for eating one.",
 	"authors": [
-		"Me!"
+		"Rumo"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/egapplemod/icon.png",
 	"environment": "*",
 	"entrypoints": {
